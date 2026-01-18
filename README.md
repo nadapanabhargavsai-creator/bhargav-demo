@@ -1,3 +1,3 @@
 # bhargav-demo
 This is a practice repo.
-Author - Bhargav sai 
+Author - Bhargav sai nadapana
